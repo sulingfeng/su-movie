@@ -1,2 +1,21 @@
-# su-movie
-这个是，一个电影的两个热门和推荐页面，运用了，vue+webpack+ES6+stylus
+# movie2
+
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
